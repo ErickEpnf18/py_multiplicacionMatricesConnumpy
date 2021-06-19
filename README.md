@@ -4,15 +4,12 @@
 |------------> | numpy    | <-------------- |
 | ----------|:--------:|-------:|
 |||  
-### el mensaje se vera de esta manera
 ### :blush:
 ``` python
-  print("y el archivo de esta otra manera ")
+  print("el mensaje se vera de esta manera: ")
 ```
 ![superMatriz](1.png "multiplicacion con numpy")
-``` python
-  print("y el archivo de esta otra manera ")
-```
+
 ``` python
   print("el proyecto aunque entretenido, aun se puede hacer mejoras. ")
   print("Gracias por su atención.")
